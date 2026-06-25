@@ -30,3 +30,6 @@ void my_input_handler(uint8_t scancode) {
 
 // In kernel initialization
 register_keyboard_callback(my_input_handler);
+
+
+example kernel: https://github.com/larprxlokm/example-kernel-doesnt-boot-
